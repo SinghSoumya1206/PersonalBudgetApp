@@ -1,0 +1,7 @@
+C:\Users\H594725\source\repos\Project_trail\Project_trail\bin\Debug\Project_trail.exe.config
+C:\Users\H594725\source\repos\Project_trail\Project_trail\bin\Debug\Project_trail.exe
+C:\Users\H594725\source\repos\Project_trail\Project_trail\bin\Debug\Project_trail.pdb
+C:\Users\H594725\source\repos\Project_trail\Project_trail\obj\Debug\Project_trail.csproj.AssemblyReference.cache
+C:\Users\H594725\source\repos\Project_trail\Project_trail\obj\Debug\Project_trail.csproj.CoreCompileInputs.cache
+C:\Users\H594725\source\repos\Project_trail\Project_trail\obj\Debug\Project_trail.exe
+C:\Users\H594725\source\repos\Project_trail\Project_trail\obj\Debug\Project_trail.pdb
